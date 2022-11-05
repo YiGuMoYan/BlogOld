@@ -1,4 +1,4 @@
-# glob
+# Blog
 
 ## Project setup
 ```
