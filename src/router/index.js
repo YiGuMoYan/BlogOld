@@ -13,7 +13,8 @@ const router = new VueRouter({
         {path: '/', component: MarkdownList},
         {path: '#', component: MarkdownList},
         {path: '/Article/:id', component: Markdown},
-        {path: '/Timeline', component: Timeline}
+        { path: '/Timeline', component: Timeline },
+        {path: '/login'}
     ]
 });
 
